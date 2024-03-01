@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
     let newsIds = [];
     let currentNewsIndex = 0;
