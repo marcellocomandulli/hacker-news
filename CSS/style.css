@@ -1,0 +1,37 @@
+body {
+   background-image: url(/IMG/bgbibg.jpg);
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   font-family: "DM Sans", sans-serif;
+}
+
+.container h1 {
+   font-size: 50px;
+   text-align: center;
+   color: rgb(255, 255, 255);
+}
+
+.list-group-item {
+   border-radius: 5px;
+   margin-bottom: 10px;
+   background-color: rgba(216, 214, 214, 0.9);
+}
+
+.container h5 {
+   font-size: 32px;
+}
+
+.list-group-item p {
+   text-align: end;
+}
+
+.list-group-item:hover {
+   background-color: rgba(243, 243, 243, 0.9);
+}
+
+#loadMoreBtn {
+   margin-bottom: 20px;
+   background-color: rgba(21, 21, 21, 0.892);
+   border-color: rgba(21, 21, 21, 0.892);
+}
